@@ -10,6 +10,6 @@ Working papers and research ideas
 6. Globalization and Sustainable Development (potentially annual YSI Conference and ISS DevISSues special issues)
 7. Religion and Sustainability (book)
 8. Stargazers and Sages (book)
-
+  
 *December 2018 Updates*
 - [Global trade finance, trade collapse and trade slowdown: A Granger causality analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3135988) (working paper)
